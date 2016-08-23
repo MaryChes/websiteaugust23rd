@@ -1,0 +1,120 @@
+html {
+	background-color: #FF7100;
+}
+
+h1 {
+	color: #3F3B37;
+	background-color: #E06B0D;
+	font-size: 2.5em;
+	font-weight: bold;
+	font-family: "Righteous", cursive;
+
+}
+
+h2 {
+	color: #3F3B37;
+	background-color: #E06B0D;
+	font-size: 1.875em;
+	font-weight: bold;
+	font-family: "Righteous", cursive;
+}
+
+p.one {
+	color: #745B47;
+	font-size: 1.25em;
+	font-family: "Varela Round", sans-serif;
+}
+
+p.two {;
+	color: #745B47;
+	font-size: 1.25em;
+	font-family: "Varela Round", sans-serif;
+}
+
+p.three {
+	color: #745B47;
+	font-size: 1.25em;
+	font-family: "Varela Round", sans-serif;
+}
+
+p.four {
+	color: #745B47;
+	font-size: 1.25em;
+	font-family: "Varela Round", sans-serif;
+}
+
+p.five {
+	color: #745B47;
+	font-size: 1.25em;
+	font-family: "Varela Round", sans-serif;
+}
+
+ul {
+	color: #745B47;
+	font-size: 1.25em;
+	font-family: "Varela Round", sans-serif;
+	background: #D2701B;
+	padding: 20px
+}
+
+ul li {
+	color: #BA9473;
+	font-size: 1.25em;
+	font-family: "Varela Round", sans-serif;
+	background: #845731;
+	margin: 5px
+}
+
+aside {
+	color: #745B47;
+	font-size: 1.25em;
+	font-family: 'Lato', sans-serif;
+	float: left;
+	width: 18.75em;
+}
+
+footer {
+	color: #745B47;
+	font-size: 0.875em;
+	font-family: 'Lato', sans-serif;
+	float: right;
+	width: 12.5em;
+}
+
+a:link {
+	color: black;
+	font-weight: bold;
+}
+a:visited{
+	color: #3F3B37;
+	font-weight: bold;
+}
+a:hover{
+	color:red;
+	font-weight: bold;
+}
+a:active{
+	color:#745B47;
+	font-weight: bold;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    color: #745B47;
+	font-size: 1.25em;
+	font-family: "Varela Round", sans-serif;
+}
+
+tr:hover {background-color: #BA9473}
+
+img{
+	height: 18.75em;
+	width: 18.75em;
+}
+
