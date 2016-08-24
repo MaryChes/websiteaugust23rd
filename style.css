@@ -1,6 +1,15 @@
 html {
 	background-color: #FF7100;
 }
+ul.horizontalmenu {
+	color: #745B47;
+	font-size: 1.25em;
+	font-family: "Varela Round", sans-serif;
+	background: #D2701B;
+	padding: 20px;
+
+
+}
 
 h1 {
 	color: #3F3B37;
@@ -54,15 +63,16 @@ ul {
 	font-size: 1.25em;
 	font-family: "Varela Round", sans-serif;
 	background: #D2701B;
-	padding: 20px
+	padding: 20px;
 }
 
-ul li {
+li {
 	color: #BA9473;
 	font-size: 1.25em;
 	font-family: "Varela Round", sans-serif;
 	background: #845731;
-	margin: 5px
+	margin: 5px;
+	display: inline;
 }
 
 aside {
@@ -71,6 +81,7 @@ aside {
 	font-family: 'Lato', sans-serif;
 	float: left;
 	width: 18.75em;
+	position: relative;
 }
 
 footer {
@@ -79,6 +90,7 @@ footer {
 	font-family: 'Lato', sans-serif;
 	float: right;
 	width: 12.5em;
+	position: relative;
 }
 
 a:link {
@@ -118,3 +130,13 @@ img{
 	width: 18.75em;
 }
 
+
+div.ex1{
+	margin: auto;
+	position: relative;
+}
+
+div.ex2{
+	margin: auto;
+	position: relative;
+}
